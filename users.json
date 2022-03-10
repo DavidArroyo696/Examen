@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6227d869e42664624c95bf7e"
+  },
+  "name": "Pepe",
+  "avatar": "http://image.com",
+  "email": "pepe@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-08T22:27:53.441Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-08T22:27:53.441Z"
+  }
+},{
+  "_id": {
+    "$oid": "622830fd91046bbc8af20ad0"
+  },
+  "name": "Gael",
+  "avatar": "http://image.com",
+  "email": "luis@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-09T04:45:49.642Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-10T01:49:08.500Z"
+  }
+},{
+  "_id": {
+    "$oid": "622834039549c7db09032d7d"
+  },
+  "name": "David",
+  "avatar": "http://image.com",
+  "email": "david@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-09T04:58:43.057Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-09T04:58:43.057Z"
+  }
+},{
+  "_id": {
+    "$oid": "622834de9549c7db09032d80"
+  },
+  "name": "Pacha",
+  "avatar": "http://image.com",
+  "email": "pacha@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-09T05:02:22.493Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-09T05:02:22.493Z"
+  }
+},{
+  "_id": {
+    "$oid": "622841599549c7db09032dd2"
+  },
+  "name": "Streider",
+  "avatar": "http://image.com",
+  "email": "streider@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-09T05:55:37.885Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-09T05:55:37.885Z"
+  }
+},{
+  "_id": {
+    "$oid": "6228418a9549c7db09032dd4"
+  },
+  "name": "df",
+  "avatar": "http://image.com",
+  "email": "dfg",
+  "createdAt": {
+    "$date": "2022-03-09T05:56:26.604Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-09T05:56:26.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "622844d69549c7db09032dea"
+  },
+  "name": "Danna",
+  "avatar": "http://image.com",
+  "email": "danna@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-09T06:10:30.532Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-09T06:10:30.532Z"
+  }
+},{
+  "_id": {
+    "$oid": "62295fb300d54393fc71e52b"
+  },
+  "name": "Hugo",
+  "avatar": "http://image.com",
+  "email": "hugo@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-10T02:17:23.205Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-10T02:17:23.205Z"
+  }
+}]
